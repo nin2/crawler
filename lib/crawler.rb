@@ -1,5 +1,5 @@
 require "crawler/version"
+require "crawler/request"
 
 module Crawler
-  # Your code goes here...
 end
